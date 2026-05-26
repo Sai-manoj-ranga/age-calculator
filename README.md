@@ -83,7 +83,7 @@ All you need is a modern web browser (Chrome, Firefox, Edge, Safari).
 
 ## 📸 Sample Result
 
-![Age_Calculator](Screenshot_age.png)
+![Age_Calculator](Screenshot_age)
 
 ---
 
